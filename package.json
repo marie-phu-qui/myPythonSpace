@@ -1,0 +1,13 @@
+{
+  "name": "PYTHON-ML",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "io": "^1.0.0",
+    "keras": "^1.0.1",
+    "numpy": "^0.0.1",
+    "random": "^2.0.12",
+    "sys": "^0.0.1"
+  }
+}
